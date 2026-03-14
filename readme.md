@@ -127,7 +127,7 @@ anniversary & proposal pages
 
 <img src="https://github-readme-stats.vercel.app/api?username=inzi-codes&show_icons=true&theme=radical&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff&bg_color=0d1117&border_color=FF6B9D&border_radius=15" height="180"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=FF6B9D&text_color=ffffff&bg_color=0d1117&border_color=FF6B9D&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inzi-codes&layout=compact&theme=radical&title_color=FF6B9D&text_color=ffffff&bg_color=0d1117&border_color=FF6B9D&border_radius=15" height="180"/>
 
 <br/><br/>
 
