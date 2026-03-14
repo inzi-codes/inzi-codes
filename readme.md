@@ -40,7 +40,7 @@ const myHeart = {
 
 <div align="center">
 
-## 🌹 What I Create — کیا بناتا ہوں
+## 🌹 What I Create 
 
 </div>
 
@@ -80,8 +80,7 @@ anniversary & proposal pages
 
 <div align="center">
 
-## 🛠️ Tools of My Heart — میرے اوزار
-
+## 🛠️ Tools of My Heart 
 </div>
 
 <div align="center">
@@ -103,7 +102,7 @@ anniversary & proposal pages
 
 <div align="center">
 
-## 🌺 Featured Projects — خاص منصوبے
+## 🌺 Featured Projects 
 
 </div>
 
@@ -124,15 +123,15 @@ anniversary & proposal pages
 
 <div align="center">
 
-## 📊 GitHub Stats — گٹ ہب اعداد و شمار
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff&bg_color=0d1117&border_color=FF6B9D&border_radius=15" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=inzi-codes&show_icons=true&theme=radical&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff&bg_color=0d1117&border_color=FF6B9D&border_radius=15" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&title_color=FF6B9D&text_color=ffffff&bg_color=0d1117&border_color=FF6B9D&border_radius=15" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&background=0d1117&border=FF6B9D&sideLabels=ffffff&dates=ffffff&stroke=FF6B9D" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=inzi-codes&theme=radical&ring=FF6B9D&fire=FF6B9D&currStreakLabel=FF6B9D&background=0d1117&border=FF6B9D&sideLabels=ffffff&dates=ffffff&stroke=FF6B9D" height="180"/>
 
 </div>
 
@@ -140,7 +139,7 @@ anniversary & proposal pages
 
 <div align="center">
 
-## 🌸 A Poem For You — آپ کے لیے ایک نظم
+## 🌸
 
 > *کوڈ کی لکیروں میں چھپا ہے پیار*
 > *ہر فنکشن میں بسا ہے تمہارا انتظار*
@@ -155,28 +154,8 @@ anniversary & proposal pages
 
 <div align="center">
 
-## 🔗 Connect With Me — رابطہ کریں
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
-
-<br/>
-
-### 💬 Suggested Bio for your GitHub Profile:
-
-```
-💖 Love Coder | Ishq-themed Web Developer | Muhabbat in every pixel
-🌹 Building romantic & emotional web experiences
-✨ HTML • CSS • JS | Urdu poetry meets modern UI
-🇵🇰 Pakistan | Code se karta hoon mohabbat
-```
-
-<br/>
-
 <!-- Visitor Count -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=💖%20Profile%20Views&color=FF6B9D&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=inzi-codes&label=💖%20Profile%20Views&color=FF6B9D&style=for-the-badge" alt="Profile Views"/>
 
 <br/><br/>
 
